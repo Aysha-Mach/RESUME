@@ -1,4 +1,4 @@
 # RESUME
 Latest Resume in LaTeX Format
 
-[embed]http://example.com/file.pdf[/embed]
+[embed]Aysha Resume Oct.pdf[/embed]
